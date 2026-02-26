@@ -7,5 +7,5 @@ With 16+ years in operations and 11+ in project management, I focus on building 
 
 *   🌍 **Based in:** Lisbon, Portugal (US Citizen)
 *   👔 **Open to:** US-based Remote (EST/PST) or EU-based roles
-*   🔗 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+*   🔗 **LinkedIn:** [https://www.linkedin.com/in/skipperdavies/](https://https://www.linkedin.com/in/skipperdavies/)
 *   ✍️ **Blog:** [globalwalrus.substack.com](https://globalwalrus.substack.com)
