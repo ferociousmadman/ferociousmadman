@@ -1,4 +1,5 @@
 ### 👋 Hi, I'm Skipper
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)
 
 **Strategic Operations Leader & Senior Project Manager**  
 *Bridging the gap between complex engineering and high-level business strategy.*
