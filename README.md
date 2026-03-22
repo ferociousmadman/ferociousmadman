@@ -10,3 +10,4 @@ With 16+ years in operations and 11+ in project management, I focus on building 
 *   👔 **Open to:** US-based Remote (EST/PST) or EU-based roles
 * 🔗 **LinkedIn:** [linkedin.com/in/skipperdavies](https://www.linkedin.com/in/skipperdavies/)
 *   ✍️ **Blog:** [globalwalrus.substack.com](https://globalwalrus.substack.com)
+*   ✍️ **Blog:** [https://sudomanagerhashnodedev.hashnode.dev/?__cf_chl_rt_tk=SBnms6ohlC0KNoYS9_q.xyIm7Vw7IibOAVEjgluK4dE-1774180400-1.0.1.1-wrp4180ER_1bO.kqJh8PcYdZFXeOlS18I7n_VUk3U6A)
