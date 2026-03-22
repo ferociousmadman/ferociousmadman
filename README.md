@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Skipper
-[![Open to Work](https://img.shields.io)](https://www.linkedin.com)
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io" alt="Open to Work" height="20">
+</a>
 
 **Strategic Operations Leader & Senior Project Manager**  
 *Bridging the gap between complex engineering and high-level business strategy.*
