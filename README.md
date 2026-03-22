@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Skipper
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)
+![Open to Work](https://img.shields.io)
 
 **Strategic Operations Leader & Senior Project Manager**  
 *Bridging the gap between complex engineering and high-level business strategy.*
@@ -8,6 +8,6 @@ With 16+ years in operations and 11+ in project management, I build the foundati
 
 *   🌍 **Based in:** Lisbon, Portugal (US Citizen)
 *   👔 **Open to:** US-based Remote (EST/PST) or EU-based roles
-*   🔗 **LinkedIn:** [/in/skipperdavies](https://www.linkedin.com/in/skipperdavies/)
+*   🔗 **LinkedIn:** [/in/skipperdavies](https://www.linkedin.com)
 *   ✍️ **Strategy Blog:** [globalwalrus.substack.com](https://globalwalrus.substack.com)
-*   ✍️ **Tech Blog:** [sudomanager.hashnode.dev](https://sudomanager.hashnode.dev)
+*   ✍️ **Tech Blog:** [sudomanagerhashnodedev.hashnode.dev](https://sudomanagerhashnodedev.hashnode.dev/)
